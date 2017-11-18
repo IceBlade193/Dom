@@ -1,0 +1,7 @@
+C:\Users\marek\Desktop\C#\Dom\Dom\bin\Debug\Dom.exe.config
+C:\Users\marek\Desktop\C#\Dom\Dom\bin\Debug\Dom.exe
+C:\Users\marek\Desktop\C#\Dom\Dom\bin\Debug\Dom.pdb
+C:\Users\marek\Desktop\C#\Dom\Dom\obj\Debug\Dom.csprojResolveAssemblyReference.cache
+C:\Users\marek\Desktop\C#\Dom\Dom\obj\Debug\Dom.csproj.CoreCompileInputs.cache
+C:\Users\marek\Desktop\C#\Dom\Dom\obj\Debug\Dom.exe
+C:\Users\marek\Desktop\C#\Dom\Dom\obj\Debug\Dom.pdb
